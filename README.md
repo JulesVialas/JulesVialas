@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jules Vialas</h1>
 <h3 align="center">A passionate software developer from France</h3>
 
-- 🔭 I’m currently working on [Fabio's website](https://github.com/JulesVialas/fabioserra.fr)
+- 🔭 I’m currently working on [Subterra's website](https://github.com/JulesVialas/subterra.fr)
 
 - 🌱 I’m currently learning **React and Node.js**
 
