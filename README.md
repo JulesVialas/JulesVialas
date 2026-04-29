@@ -1,22 +1,110 @@
-<h1 align="center">Hi 👋, I'm Jules Vialas</h1>
-<h3 align="center">A passionate software developer from France</h3>
+# Hi 👋 I'm Jules
 
-- 🔭 I’m currently working on [Subterra's website](https://github.com/JulesVialas/subterra.fr)
+### Full Stack Software Developer from France 🇫🇷
 
-- 🌱 I’m currently learning **React and Node.js**
+Passionate about building modern applications, scalable systems, cloud platforms, automation tools, AI solutions, and premium user experiences.
 
-- 👨‍💻 All of my projects are available at [https://github.com/JulesVialas](https://github.com/JulesVialas)
+## 🌐 Connect With Me
 
-- 📝 I regularly write articles on [https://fr.linkedin.com/in/julesvialas](https://fr.linkedin.com/in/julesvialas)
-
-- 📫 How to reach me **jules.vialas@gmail.com**
-
-- 📄 Know about my experiences [https://fr.linkedin.com/in/julesvialas](https://fr.linkedin.com/in/julesvialas)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/julesvialas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julesvialas" height="30" width="40" /></a>
+<a href="https://github.com/JulesVialas" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="45" />
+</a>
+<a href="https://linkedin.com/in/julesvialas" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+<a href="mailto:jules.vialas@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" width="45" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+# 🚀 Languages & Tools
+
+## Frontend
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="45"/></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="45"/></a>
+<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/></a>
+<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" width="45"/></a>
+<a href="https://nuxt.com/"><img src="https://skillicons.dev/icons?i=nuxtjs" width="45"/></a>
+<a href="https://angular.io/"><img src="https://skillicons.dev/icons?i=angular" width="45"/></a>
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/></a>
+<a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/></a>
+</p>
+
+## Backend
+
+<p align="left">
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/></a>
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="45"/></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="45"/></a>
+<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" width="45"/></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="45"/></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="45"/></a>
+<a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" width="45"/></a>
+<a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" width="45"/></a>
+<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" width="45"/></a>
+<a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" width="45"/></a>
+<a href="https://symfony.com/"><img src="https://skillicons.dev/icons?i=symfony" width="45"/></a>
+</p>
+
+## Mobile & Desktop
+
+<p align="left">
+<a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" width="45"/></a>
+<a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" width="45"/></a>
+<a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" width="45"/></a>
+<a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" width="45"/></a>
+<a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" width="45"/></a>
+<a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" width="45"/></a>
+</p>
+
+## Cloud & DevOps
+
+<p align="left">
+<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="45"/></a>
+<a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" width="45"/></a>
+<a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="45"/></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="45"/></a>
+<a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" width="45"/></a>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="45"/></a>
+<a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx" width="45"/></a>
+<a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" width="45"/></a>
+<a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" width="45"/></a>
+</p>
+
+## Databases
+
+<p align="left">
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45"/></a>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="45"/></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/></a>
+<a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="45"/></a>
+<a href="https://sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" width="45"/></a>
+</p>
+
+## AI / Tools / Design
+
+<p align="left">
+<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="45"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="45"/></a>
+<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="45"/></a>
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop" width="45"/></a>
+<a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=illustrator" width="45"/></a>
+<a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" width="45"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="45"/></a>
+</p>
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulesVialas&show_icons=true&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulesVialas&layout=compact&hide_border=true"/>
+</p>
